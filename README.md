@@ -1,2 +1,4 @@
 # ultibo-i2cdetect
-an implementation of i2cdetect for ultibo
+An implementation of i2cdetect for ultibo
+
+Totally plagiarised from Gavin's (gavinmc42) work, here is my simplified version of i2cdetect.
